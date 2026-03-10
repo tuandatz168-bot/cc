@@ -1,7 +1,0 @@
-flask
-flask-cors
-requests
-python-dotenv
-nanoid
-python-telegram-bot
-urllib3
